@@ -1,0 +1,14 @@
+{
+    "name": "oya",
+    "version": "1.0.0",
+    "description": "first node http",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Tony Tsai",
+    "license": "ISC",
+    "dependencies": {
+        "http": "0.0.0"
+    }
+}
